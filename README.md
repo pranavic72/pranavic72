@@ -3,107 +3,68 @@
 🚀 **AI Systems Engineer | LLM Integration | Applied ML**
 
 🎓 Master's Student - Automotive Software Engineering @ TU Chemnitz  
-💼 Former Junior Software Developer @ Nomura Services  
-📍 Chemnitz, Germany
 
-I build **AI-powered applications** that solve real problems—from RAG-based chatbots to ML pipelines to intelligent automation. I focus on turning LLM capabilities and ML models into production-ready systems.
+I turn LLMs and ML models into apps that actually work. Sometimes they even do what I intended. 🤖
 
 ---
 
 ## 🧠 What I Do
 
 - 🤖 Design and deploy **LLM-powered applications** with RAG pipelines and semantic search
-- 🏗️ Develop **scalable backend systems** using Python, FastAPI, and C#/.NET
 - 📊 Build **ML classification systems** (CNNs, transfer learning, feature engineering)
 - 💾 Work with **vector databases** and embeddings for context-aware AI
-- ⚙️ Process and structure **large-scale datasets** (10GB+ daily workflows)
-
+  
 ---
-
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
 ### 💼 AI Resume Assistant
-**RAG-based conversational AI for resume analysis**  
-[Live Demo](https://ai-resume-assistant-demo.streamlit.app/) | [GitHub](https://github.com/pranavic72/AI-resume-assistant)
-
-- Designed and deployed a **multi-document RAG system** enabling natural-language querying across uploaded resumes
-- Implemented **semantic search** using ChromaDB + vector embeddings for precise context retrieval
-- Integrated **Google Gemini 2.5 Flash API** with conversation memory for follow-up questions
-- Built **Streamlit interface** supporting PDF/DOCX parsing with on-the-fly file management
-- Production-ready with **proper attribution** and source tracking for generated answers
-
-**Tech Stack:** Python, Streamlit, ChromaDB, Google Gemini API, PyPDF2, LangChain concepts
-
----
+Multi-document RAG system for resume analysis. Upload PDFs, ask natural language questions.  
+[Live](https://ai-resume-assistant-demo.streamlit.app/) | [Code](https://github.com/pranavic72/AI-resume-assistant)
+ 
+- ChromaDB vector store + semantic search
+- Google Gemini API integration
+- Multi-turn conversation memory
 
 ### ♻️ Waste Sorter
-**Automated waste classification using CNN with transfer learning**  
-[Live Demo](https://waste-sorter.streamlit.app/) | [GitHub](https://github.com/pranavic72/Waste-Sorter)
-
-- Trained a **CNN-based image classifier** using MobileNet transfer learning for 6 waste categories
-- Implemented **data preprocessing, augmentation, and feature extraction** for optimal model performance
-- Deployed on **Streamlit Cloud** with external model hosting (Google Drive) to bypass size constraints
-- Built clean, **production-grade interface** handling real-world image uploads with confidence scoring
-
-**Tech Stack:** Python, TensorFlow, Keras, OpenCV, MobileNet, Streamlit
-
----
+CNN-based image classifier. Takes a photo, tells you what bin it goes in.  
+[Live](https://waste-sorter.streamlit.app/) | [Code](https://github.com/pranavic72/Waste-Sorter)
+ 
+- MobileNet transfer learning
+- Data augmentation & preprocessing
+- Streamlit deployment
 
 ### 🏥 Disease Prediction System
-**Structured ML workflow for healthcare prediction**  
-[GitHub](https://github.com/pranavic72/disease-prediction)
-
-- Developed **end-to-end ML pipeline**: data cleaning → feature engineering → model training → validation
-- Applied **Scikit-learn classifiers** with hyperparameter tuning for clinical datasets
-- Built **Streamlit dashboard** translating complex ML outputs into actionable insights
-- Demonstrated ability to structure **repeatable, documented workflows** for healthcare applications
-
-**Tech Stack:** Python, Scikit-learn, Pandas, NumPy, Streamlit
-
----
-
+End-to-end ML pipeline for healthcare prediction.  
+[Code](https://github.com/pranavic72/disease-prediction)
+ 
+- Scikit-learn classification
+- Feature engineering & hyperparameter tuning
+- Streamlit dashboard
 ## 🛠️ Tech Stack
-
-### Languages & Backend
-`Python` `C#` `.NET` `JavaScript` `FastAPI` `REST API`
-
-### AI & ML
-`LLMs` `RAG Pipelines` `Vector Databases` `TensorFlow` `Keras` `Scikit-learn` `ChromaDB` `Semantic Search`
-
-### Data & APIs
-`SQL` `Pandas` `NumPy` `Google Gemini API` `OpenAI APIs` `Data Processing`
-
-### Tools & DevOps
-`Streamlit` `Git` `Docker` `CI/CD` `JIRA` `Confluence`
-
----
-
-## 💼 Work Experience Highlights
-
-**Junior Software Developer** @ Nomura Services Pvt Ltd *(Jan 2023 - Jul 2023)*
-- Designed and deployed **RESTful API integrations** supporting 500+ daily active users
-- Automated **data workflows** processing 10GB+ daily, reducing manual overhead
-- Delivered **clean, reusable architecture** using C#/.NET and React
-
-**Head of Branding** @ K J Somaiya Institute of Management *(Jan 2022 - Jan 2023)*
-- Built and maintained **5+ analytical dashboards** using Excel and Tableau
-- Analyzed **30+ campaigns** identifying patterns that drove 10-15% effectiveness gains
-- Led **cross-functional teams** translating data insights into actionable strategy
-
----
-
-## 🎓 Education
-
-**Master's in Automotive Software Engineering** *(Oct 2024 - ongoing)*  
-Technical University of Chemnitz
-
-**Master's in Computer Applications** *(2021 - 2023)*  
-K J Somaiya Institute of Management
-
-**Bachelor's in Computer Science** *(2017 - 2020)*  
-S N College of Arts and Commerce
-
----
+ 
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+ 
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+ 
+### Data & Databases
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-003B5C?style=for-the-badge&logo=database&logoColor=white)
+ 
+### Tools & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8F7EE7?style=for-the-badge&logo=google&logoColor=white)
 
 ## 📫 Connect With Me
 
