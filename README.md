@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Pranavi Chintakindi
 
-🚀 **AI Systems Engineer | LLM Integration | Applied ML**
-
 🎓 Master's Student - Automotive Software Engineering @ TU Chemnitz  
 
 I turn LLMs and ML models into apps that actually work. Sometimes they even do what I intended. 🤖
