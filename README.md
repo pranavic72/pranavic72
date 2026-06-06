@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pranavi Chintakindi
+# 👋 Hi, I'm Navi! ⭐
 
 🎓 Master's Student - Automotive Software Engineering @ TU Chemnitz  
 
